@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/NetworksProject2.dir/Project2/project2.c.o CMakeFiles/NetworksProject2.dir/Project2/student2.c.o  -o NetworksProject2 

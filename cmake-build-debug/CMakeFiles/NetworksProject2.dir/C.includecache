@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jasondykstra/CLionProjects/NetworksProject2/Project2/project2.c
+project2.h
+/Users/jasondykstra/CLionProjects/NetworksProject2/Project2/project2.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+math.h
+-
+windows.h
+-
+
+/Users/jasondykstra/CLionProjects/NetworksProject2/Project2/project2.h
+
+/Users/jasondykstra/CLionProjects/NetworksProject2/Project2/student2.c
+stdio.h
+-
+stdlib.h
+-
+project2.h
+/Users/jasondykstra/CLionProjects/NetworksProject2/Project2/project2.h
+
